@@ -21,8 +21,8 @@ public class HelloServlet extends HttpServlet {
         UserModel model = new UserModel();
         User user = model.getUser();
 
-//        user.setId("1111");
-//        user.setName("Up1");
+        // user.setId("1111");
+        // user.setName("Up1");
 
         // Create response message
         ObjectMapper mapper = new ObjectMapper();
