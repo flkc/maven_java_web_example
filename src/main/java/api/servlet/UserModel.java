@@ -2,6 +2,6 @@ package api.servlet;
 
 public class UserModel {
     public User getUser() {
-        return new User("1112", "Up2");
+        return new User("6667", "Maria A.");
     }
 }
